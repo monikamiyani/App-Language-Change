@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/hello"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:justificationMode="inter_word"
+            android:text="@string/settingtext" />
+
+        <Button
+            android:id="@+id/englishs"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="@drawable/custom_button_background"
+            android:text="@string/english"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/hindis"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_button_background"
+            android:text="@string/hindi"
+            android:layout_margin="5dp"
+            android:textColor="#fff" />
+
+        <Button
+            android:id="@+id/germans"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_button_background"
+            android:text="@string/german"
+            android:layout_margin="5dp"
+            android:textColor="#fff" />
+
+    </LinearLayout>
+
+</LinearLayout>

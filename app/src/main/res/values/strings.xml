@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Language</string>
+
+    <string name="hindi">Hindi</string>
+    <string name="english">English</string>
+    <string name="german">German</string>
+
+    <string name="hello">Welcome to First Screen.</string>
+    <string name="settingtext">Welcome to Setting Screen.</string>
+
+    <string name="settings_label">Settings</string>
+
+</resources>

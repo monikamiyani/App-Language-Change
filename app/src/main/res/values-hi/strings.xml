@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ऐप भाषा</string>
+
+    <string name="hindi">हिन्दी</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="german">जर्मन</string>
+
+    <string name="hello">फ़र्स्ट स्क्रीन में आपका स्वागत है।</string>
+    <string name="settingtext">सेटिंग स्क्रीन में आपका स्वागत है।</string>
+    <string name="settings_label">सेटिंग्स</string>
+</resources>
